@@ -45,3 +45,8 @@ Explore the official SwiftData documentation for more information:
 For any inquiries or further discussion about this project or my skills as an iOS developer, please feel free to contact me:
 
 [📧 Mail](mailto:ashrafhatia@gmail.com ) : ashrafhatia@gmail.com 
+
+## App Recording
+
+https://github.com/AshrafHatia/swiftdata-example/assets/65664955/b78f2471-236c-4026-9a55-5f6ce73281c4
+
